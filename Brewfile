@@ -34,3 +34,12 @@ cask 'skitch'
 cask 'spectacle'
 cask 'xmarks-safari'
 cask 'onyx'
+# Adobe関連
+cask 'flash'
+cask 'adobe-reader'
+cask 'adobe-air'
+cask 'adobe-creative-cloud'
+cask 'adobe-creative-cloud-cleaner-tool'
+cask 'adobe-photoshop-cc'
+# リモートデスクトップ(Microsoft公式)
+cask 'remote-desktop-connection'
