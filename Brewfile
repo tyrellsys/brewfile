@@ -35,10 +35,20 @@ cask 'github-desktop'
 cask 'sourcetree'
 # クラウドストレージ
 cask 'google-drive'
+# 開発用ツール
+# JetBreains
+# IntellijIdea
+cask 'intellij-idea'
+# IntellijIdea
+cask 'phpstorm'
 # IDE
+# Netbeans
 cask 'java'
 cask 'netbeans-php'
-# 開発用ツール
+# Eclipse
+eclipse-java
+# Eclipse-php
+eclipse-php
 # 仮想環境
 cask 'vagrant'
 cask 'virtualbox'
