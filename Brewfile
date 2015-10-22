@@ -46,9 +46,9 @@ cask 'phpstorm'
 cask 'java'
 cask 'netbeans-php'
 # Eclipse
-eclipse-java
+cask 'eclipse-java'
 # Eclipse-php
-eclipse-php
+cask 'eclipse-php'
 # 仮想環境
 cask 'vagrant'
 cask 'virtualbox'
