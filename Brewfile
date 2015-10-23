@@ -57,6 +57,9 @@ cask 'packer'
 cask 'chefdk'
 # DB開発
 cask 'sequel-pro'
+# パケットキャプチャ
+cask 'xquartz'
+cask 'wireshark'
 # チャットツール
 cask 'skype'
 # マシンをスリープさせない
