@@ -9,6 +9,7 @@ brew 'openssl'
 brew 'nmap'
 brew 'pandoc'
 brew 'wget'
+brew 'awscli'
 # ここからbrew/cask
 brew 'caskroom/cask/brew-cask'
 # 日本語入力
