@@ -10,6 +10,7 @@ brew 'nmap'
 brew 'pandoc'
 brew 'wget'
 brew 'awscli'
+brew 'aws-elasticbeanstalk'
 # ここからbrew/cask
 brew 'caskroom/cask/brew-cask'
 # 日本語入力
