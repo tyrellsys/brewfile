@@ -11,6 +11,7 @@ brew 'pandoc'
 brew 'wget'
 brew 'awscli'
 brew 'aws-elasticbeanstalk'
+brew 'heroku-toolbelt'
 # ここからbrew/cask
 brew 'caskroom/cask/brew-cask'
 # 日本語入力
