@@ -12,7 +12,7 @@ brew 'pandoc'
 brew 'wget'
 brew 'awscli'
 brew 'phpenv'
-brew 'php-build' [HEAD]
+brew 'php-build', args: ['HEAD']
 # ここからbrew/cask
 brew 'caskroom/cask/brew-cask'
 # 日本語入力
