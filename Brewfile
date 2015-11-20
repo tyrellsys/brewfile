@@ -3,6 +3,7 @@ tap 'homebrew/binary'
 tap 'homebrew/bundle'
 tap 'homebrew/dupes'
 tap 'homebrew/versions'
+tap 'homebrew/php'
 brew 'git'
 brew 'mackup'
 brew 'openssl'
@@ -10,6 +11,13 @@ brew 'nmap'
 brew 'pandoc'
 brew 'wget'
 brew 'awscli'
+# phpenv環境
+brew 'phpenv'
+brew 'php-build', args: ['HEAD']
+brew 're2c'
+brew 'libjpeg'
+brew 'libpng'
+brew 'libmcrypt'
 # ここからbrew/cask
 brew 'caskroom/cask/brew-cask'
 # 日本語入力
