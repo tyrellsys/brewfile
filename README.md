@@ -30,3 +30,17 @@ OSX初期セットアップテンプレートです
 ## TODO
 
 - インストールパッケージの精査
+
+### phpbrew
+
+利用する場合は以下をコマンドで実行しておく
+
+```bash
+brew link curl --force
+brew link icu4c --force
+brew link libxml2 --force
+brew link openssl --force
+```
+
+インストールや設定参考url  
+http://www.karakaram.com/mac-install-phpbrew
